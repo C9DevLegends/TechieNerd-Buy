@@ -1,0 +1,49 @@
+.hero-header {
+    background-color: rgba(193, 206, 208, 0.769);
+    color: rgb(10, 9, 9);
+}
+.hero-header h2 {
+    font-size: 2rem;
+    font-weight: bolder;
+}
+
+.hero-header h2 span {
+    color: #DA7E11;
+}
+
+.hero-header .btn-primary {
+    background-color:#DA7E11 !important;
+    transition: all 0.5s ease !important;
+    border: 1px #fdbb6a solid !important;
+    text-decoration: none !important;
+    
+}
+
+.hero-header .btn-primary:hover
+ {
+    color: #DA7E11 !important;
+    background-color: transparent !important;
+    border: 1px #fdbb6a solid !important;
+    font-size: 20px !important;
+    
+}
+
+.hero-header .btn-primary .link:hover{
+    border: none !important;
+    color: #DA7E11 !important;
+}
+
+.showcase {
+    background: linear-gradient(#00000070, #00000078), url(../../Assets/showcase.png) no-repeat center center;
+    background-size: cover;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.showcase h3 {
+    color: #fff;
+    font-weight: 600;
+}
+

@@ -1,0 +1,28 @@
+.table tr td img {
+    width: 80px !important;
+    height: 80px !important;
+    object-fit: contain;
+}
+
+.delete  {
+    cursor: pointer;
+}
+
+.billing-form .form-group input {
+    border: 1px solid rgb(79, 75, 75);
+}
+
+.bill__checkout h4 {
+    margin-bottom: 20px;
+}
+.bill__checkout h6, h4 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.bill__checkout h4 {
+    border: 1px solid rgb(112, 111, 111);
+    padding: 2px;
+    padding-top: 20px;
+}

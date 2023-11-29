@@ -1,0 +1,73 @@
+.admin__menu {
+
+    padding-left:0px;
+    margin-left: 0;
+    width: 100%;
+    height: 120px;
+    line-height: 120px;
+    background-color: rgb(15, 120, 146);
+}
+
+.admin__menu__item a{
+    color: white;
+    font-weight: 500;
+    padding: 10px 8px;
+    border-radius: 5px;
+}
+
+.active__admin-menu{
+    background-color: whitesmoke;
+}
+
+.profile {
+    position: relative;
+}
+
+
+.profile__actions {
+    position: absolute;
+    top: 130%;
+    left: 0;
+    width: 150px;
+    z-index: 101;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: whitesmoke;
+    border-radius: 4px;
+    display: none;
+    cursor: pointer;
+}
+
+.profile__actions div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.show__profileAction {
+    display: block ;
+}
+
+.revenue__box, .order__box, .product__box, .user__box {
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.revenue__box{
+    background-color: aqua;
+}
+
+.order__box {
+    background-color: bisque;
+}
+
+.product__box {
+    background-color: rgb(171, 204, 233);
+}
+
+.user__box {
+    background-color: chartreuse;
+}

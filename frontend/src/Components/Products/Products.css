@@ -1,0 +1,14 @@
+
+.product__image {
+    height: 80px;
+    object-fit: contain;
+}
+
+.product__card {
+    background-color: rgb(232, 230, 230);
+}
+
+.add__icon {
+    cursor: pointer;
+}
+

@@ -1,0 +1,26 @@
+.brand-image {
+    object-fit: contain;
+}
+.card__brand {
+    background-color: #eaddff;
+}
+
+.fav__card {
+    background-color:#e9f5cf;
+}
+
+.fav-text {
+    color: #5a6e33;
+    
+}
+.card-text {
+    color: #4d321c;
+    font-weight: bolder;
+}
+.brand__header {
+    background-color: #cdef85;
+    height: 3rem;
+}
+.fav__container {
+    background-color: #998a8f;
+}

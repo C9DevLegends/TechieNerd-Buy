@@ -1,0 +1,28 @@
+.home {
+    background-color:#fdbb6a;
+}
+
+.grocery .btn-primary {
+    background-color:#DA7E11 !important;
+    transition: all 0.5s ease !important;
+    border: 1px #fdbb6a solid !important;
+    text-decoration: none !important;
+}
+
+.grocery .btn-primary:hover {
+    color: #DA7E11 !important;
+    background-color: transparent !important;
+    border: 1px #fdbb6a solid !important;
+    font-size: 20px !important;
+}
+
+
+.fav__header {
+    background-color: #ffdcc1;
+    height: 3rem;
+    color: #3a1f0a;
+}
+
+.btn-link {
+    text-decoration: none !important;
+}

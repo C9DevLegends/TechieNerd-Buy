@@ -1,0 +1,14 @@
+.quick__links ul li{
+    background-color: transparent !important;
+    list-style: none;
+    color: #fff !important;
+    font-size: small;
+}
+
+.footer__quick__link ul li .a {
+    color: #fff !important;
+}
+
+.quick__link__title {
+    color: #fff !important; 
+}
